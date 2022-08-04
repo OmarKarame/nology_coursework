@@ -19,25 +19,25 @@ header {
 }
 #logo h1 {
   font-size: 50px;
-  color: #332f7b;
+  color: #2d3c68;
   font-family: "Mouse Memoirs", sans-serif;
 }
 
 .login-button {
-  color: #332f7b;
+  color: #2d3c68;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   text-decoration: none;
   font-size: 20px;
   border-radius: 7px;
-  border: 1px solid #332f7b;
+  border: 1px solid #2d3c68;
   padding: 10px 15px;
 }
 
 h2 {
   text-align: center;
   margin: 40px 25px;
-  color: #11dbed;
+  color: #11cced;
   font-family: "Roboto", sans-serif;
   font-size: 30px;
 }
@@ -52,7 +52,7 @@ h2 {
 h3 {
   text-align: center;
   margin: 40px 20px;
-  color: #332f7b;
+  color: #2d3c68;
   font-family: "Roboto", sans-serif;
   font-size: 23px;
 }
@@ -60,7 +60,7 @@ h3 {
 h4 {
   text-align: center;
   margin: 40px 22px;
-  color: #11dbed;
+  color: #11cced;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
 }
@@ -68,7 +68,7 @@ h4 {
 h5 {
   text-align: center;
   margin: 40px 20px;
-  color: #332f7b;
+  color: #2d3c68;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: lighter;
@@ -81,7 +81,7 @@ h5 {
 }
 .main-button button {
   color: #fffff8;
-  background-color: #332f7b;
+  background-color: #2d3c68;
   border: 0px solid;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
@@ -98,7 +98,7 @@ h5 {
 }
 .penguin-info p {
   text-align: center;
-  color: #332f7b;
+  color: #2d3c68;
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-weight: lighter;
