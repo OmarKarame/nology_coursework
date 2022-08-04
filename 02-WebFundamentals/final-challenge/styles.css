@@ -96,7 +96,13 @@ h5 {
   align-items: center;
   margin: 20px 10px;
 }
-
-span {
-  font-weight: 400;
+.penguin-info p {
+  text-align: center;
+  color: #332f7b;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: lighter;
+}
+.penguin-info p span {
+  font-weight: bold;
 }

@@ -106,9 +106,15 @@ h5{
     justify-content: space-around;
     align-items: center;
     margin: 20px 10px;
-    
+    p{
+        text-align: center;
+        color: $color-primary;
+        font-family: $font-primary;
+        font-size: 18px;
+        font-weight: lighter;
+        span{
+            font-weight: bold;
+        }
+    }
 }
 
-span{
-    font-weight: 400;
-}
