@@ -110,7 +110,7 @@ h5 {
 footer {
   background-color: #f7f2be;
 }
-footer h6 {
+footer a {
   font-size: 25px;
   font-family: "Roboto", sans-serif;
   color: #2d3c68;
@@ -119,4 +119,5 @@ footer h6 {
   justify-content: center;
   background-color: #f7f2be;
   padding: 15px 0px;
+  text-decoration: none;
 }
