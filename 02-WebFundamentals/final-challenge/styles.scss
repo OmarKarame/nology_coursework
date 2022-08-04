@@ -118,3 +118,16 @@ h5{
     }
 }
 
+footer{
+    background-color: $color-footer-background;
+    h6{
+        font-size: 25px;
+        font-family: $font-primary;
+        color: $color-primary;
+        font-weight: 80;
+        display: flex;
+        justify-content: center;
+        background-color: $color-footer-background;
+        padding: 15px 0px;
+    }
+}

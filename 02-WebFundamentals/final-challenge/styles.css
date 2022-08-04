@@ -106,3 +106,17 @@ h5 {
 .penguin-info p span {
   font-weight: bold;
 }
+
+footer {
+  background-color: #f7f2be;
+}
+footer h6 {
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  color: #2d3c68;
+  font-weight: 80;
+  display: flex;
+  justify-content: center;
+  background-color: #f7f2be;
+  padding: 15px 0px;
+}
