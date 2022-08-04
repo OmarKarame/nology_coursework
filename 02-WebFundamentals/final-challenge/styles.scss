@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Roboto&display=swap');
+
+$font-logo: "Mouse Memoirs", sans-serif;
+$font-primary: "Roboto", sans-serif;
+
+$color-primary: rgb(51, 47, 123);
+$color-secondary: rgb(17, 219, 237);
+$color-white: rgb(255, 255, 248);
+$color-black: rgb(15, 15, 15);
+$color-footer-background: rgb(247, 242, 190);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: $color-white;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    h1{
+        font-size: 50px;
+        color: $color-primary;
+        font-family: $font-logo;
+    }
+}
+
+.login-button{
+    color: $color-primary;
+    font-family: $font-primary;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 2px solid $color-primary;
+    padding: 10px;
+}

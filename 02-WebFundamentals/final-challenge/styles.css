@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fffff8;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#logo h1 {
+  font-size: 50px;
+  color: #332f7b;
+  font-family: "Mouse Memoirs", sans-serif;
+}
+
+.login-button {
+  color: #332f7b;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 10px;
+  border: 2px solid #332f7b;
+  padding: 10px;
+}
