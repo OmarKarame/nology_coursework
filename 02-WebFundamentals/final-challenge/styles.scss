@@ -1,13 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Roboto&display=swap');
-
-$font-logo: "Mouse Memoirs", sans-serif;
-$font-primary: "Roboto", sans-serif;
-
-$color-primary: rgb(45, 60, 104);
-$color-secondary: rgb(17, 204, 237);
-$color-white: rgb(255, 255, 248);
-$color-black: rgb(15, 15, 15);
-$color-footer-background: rgb(247, 242, 190);
+@import "./variables";
 
 *{
     margin: 0;
